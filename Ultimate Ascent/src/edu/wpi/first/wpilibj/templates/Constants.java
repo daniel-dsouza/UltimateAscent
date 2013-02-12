@@ -15,11 +15,4 @@ public class Constants {
     public static final int INTAKE_SENSOR_CHANNEL = 1;
     public static final int TOP_SENSOR_CHANNEL = 2;
     
-    public static final Line[] DS_LINE_ORDER = {
-    DriverStationLCD.Line.kMain6,
-    DriverStationLCD.Line.kUser2,
-    DriverStationLCD.Line.kUser3,
-    DriverStationLCD.Line.kUser4,
-    DriverStationLCD.Line.kUser5,
-    DriverStationLCD.Line.kUser6};
 }
